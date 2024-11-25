@@ -1,0 +1,476 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "MacBook Air",
+        "product_image": "https://www.fintie.com/cdn/shop/files/MacBook_Air_13_M3_chip_case.png?v=1716876113",
+        "category": "MacBook",
+        "price": 999,
+        "description": "Lightweight laptop with M1 chip and Retina display.",
+        "Specification": [
+            "M1 chip",
+            "13-inch display",
+            "8GB RAM",
+            "256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 2,
+        "product_title": "iPhone 13",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3408-30421.jpg",
+        "category": "Iphone",
+        "price": 799,
+        "description": "Latest iPhone with A15 Bionic chip and dual-camera system.",
+        "Specification": [
+            "A15 Bionic",
+            "6.1-inch display",
+            "128GB storage"
+        ],
+        "availability": true,
+        "rating": 3.6
+    },
+    {
+        "product_id": 3,
+        "product_title": "Galaxy Watch",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Watch-Ultra-Titanium-Gray-1156.jpg",
+        "category": "Smart-Watches",
+        "price": 249,
+        "description": "Smart watch with fitness tracking and heart rate monitoring.",
+        "Specification": [
+            "Fitness tracking",
+            "Heart rate monitor",
+            "GPS"
+        ],
+        "availability": true,
+        "rating": 2.4
+    },
+    {
+        "product_id": 4,
+        "product_title": "XPS 13",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/XPS-15-9530-c-1421.jpg",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "Premium ultrabook with stunning display and performance.",
+        "Specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 5,
+        "product_title": "Anker Power Bank",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Anker-X-Transformers-Edition-733-Power-Bank-GaNPrime-PowerCore-65W-8930.jpg",
+        "price": 39,
+        "description": "Portable power bank with fast charging capabilities.",
+        "Specification": [
+            "10000mAh capacity",
+            "Fast charging",
+            "Compact design"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 6,
+        "product_title": "Belkin Charger",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2772-19254.jpg",
+        "category": "Accessories",
+        "price": 29,
+        "description": "Qi-certified wireless charger for fast charging.",
+        "Specification": [
+            "10W output",
+            "Qi-certified",
+            "Slim design"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 7,
+        "product_title": "Sony Headphones",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/SONY-MDR-XB550AP-Black-4479.jpg",
+        "category": "Accessories",
+        "price": 349,
+        "description": "Wireless headphones with industry-leading noise cancellation.",
+        "Specification": [
+            "30-hour battery life",
+            "Touch sensor controls",
+            "Quick charge"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 8,
+        "product_title": "AirPods Pro",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Silicone-Protective-Case-for-Apple-AirPods-Pro-Rosa-Rugosa-8898.jpg",
+        "category": "Accessories",
+        "price": 249,
+        "description": "Wireless earbuds with active noise cancellation.",
+        "Specification": [
+            "Active noise cancellation",
+            "Transparency mode",
+            "Adaptive EQ"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": 9,
+        "product_title": "MX Master 3",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/4127-72278.jpg",
+        "category": "Accessories",
+        "price": 99,
+        "description": "Wireless mouse designed for advanced users.",
+        "Specification": [
+            "Ergonomic design",
+            "Customizable buttons",
+            "Bluetooth and USB receiver"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 10,
+        "product_title": "MacBook Pro 16-inch",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3713-36363.jpg",
+        "category": "MacBook",
+        "price": 2399,
+        "description": "High-performance laptop with M1 Pro chip and Liquid Retina XDR display.",
+        "Specification": [
+            "M1 Pro chip",
+            "16-inch Liquid Retina XDR display",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 11,
+        "product_title": "Galaxy Tab S8",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/5034-23715.jpg",
+        "category": "Accessories",
+        "price": 649,
+        "description": "Powerful tablet with large screen and multitasking capabilities.",
+        "Specification": [
+            "11-inch display",
+            "128GB storage",
+            "S Pen included"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 12,
+        "product_title": "Huawei Watch GT 3",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Huawei-Watch-GT-3-42mm-Active-Edition-9425.jpg",
+        "category": "Smart-Watches",
+        "price": 199,
+        "description": "Elegant smartwatch with advanced health tracking and GPS.",
+        "Specification": [
+            "1.43-inch AMOLED display",
+            "14-day battery life",
+            "Water resistant"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": 13,
+        "product_title": "Surface Laptop 4",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/4946-83271.jpg",
+        "category": "Laptops",
+        "price": 999,
+        "description": "Slim and stylish laptop with PixelSense touchscreen.",
+        "Specification": [
+            "Intel Core i5",
+            "8GB RAM",
+            "256GB SSD",
+            "13.5-inch PixelSense display"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 14,
+        "product_title": "Beats Studio Buds",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Beats-Studio-Buds-4-7251.jpg",
+        "category": "Accessories",
+        "price": 149,
+        "description": "True wireless earbuds with active noise cancellation.",
+        "Specification": [
+            "Active noise cancellation",
+            "Up to 8 hours of listening time",
+            "Sweat and water resistant"
+        ],
+        "availability": false,
+        "rating": 4.3
+    },
+    {
+        "product_id": 15,
+        "product_title": "JBL Flip 6",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/JBL-Partybox-110-a-1407.jpg",
+        "category": "Accessories",
+        "price": 129,
+        "description": "Portable Bluetooth speaker with powerful sound and deep bass.",
+        "Specification": [
+            "IP67 waterproof",
+            "12 hours of playtime",
+            "Compact design"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 16,
+        "product_title": "Dell Inspiron 15",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Inspiron-15-3501-9081.jpg",
+        "category": "Laptops",
+        "price": 599,
+        "description": "Affordable laptop with a full HD display and reliable performance.",
+        "Specification": [
+            "Intel Core i5",
+            "8GB RAM",
+            "256GB SSD",
+            "15.6-inch Full HD display"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": 17,
+        "product_title": "Razer Basilisk X ",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Wiwu-Elite-Headset-TD-05-Wireless-Headphone-Khaki-7986.jpg",
+        "category": "Accessories",
+        "price": 59,
+        "description": "Wireless gaming mouse with dual-mode connectivity.",
+        "Specification": [
+            "HyperSpeed wireless",
+            "6 programmable buttons",
+            "Battery life up to 450 hours"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 18,
+        "product_title": "Apple Magic Keyboard",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Coteci-84019-Wireless-Keyboard-and-Mouse-Combo-7938.jpg",
+        "category": "Accessories",
+        "price": 99,
+        "description": "Wireless keyboard with comfortable, precise typing experience.",
+        "Specification": [
+            "Bluetooth",
+            "Rechargeable battery",
+            "Compact and portable"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 19,
+        "product_title": "Lenovo Yoga 7i",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Lenovo-Yoga-7-14IML9--a-8742.jpg",
+        "category": "Laptops",
+        "price": 749,
+        "description": "Convertible laptop with a 2-in-1 design and powerful Intel Core processor.",
+        "Specification": [
+            "Intel Core i5",
+            "14-inch Full HD touchscreen",
+            "8GB RAM",
+            "256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 20,
+        "product_title": "Samsung Galaxy Buds Pro",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Book3-Pro-360-i7-13th-Gen-16-WQXGA+-AMOLED-Display-Laptop-(3)-1743.jpg",
+        "category": "Laptops",
+        "price": 199,
+        "description": "Wireless earbuds with active noise cancellation and immersive sound.",
+        "Specification": [
+            "Active noise cancellation",
+            "IPX7 water-resistant",
+            "Wireless charging"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 21,
+        "product_title": "HP Envy 13",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/HP-ENVY-13-BF0013DX-b-6137.jpg",
+        "category": "Laptops",
+        "price": 1099,
+        "description": "Ultra-slim laptop with long battery life and powerful performance.",
+        "Specification": [
+            "Intel Core i7",
+            "13.3-inch 4K UHD display",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 22,
+        "product_title": "Fitbit Charge 5",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Fitbit-Charge-5-Steel-Blue-7522.jpg",
+        "category": "Smart-Watches",
+        "price": 129,
+        "description": "Advanced health and fitness tracker with built-in GPS and stress management tools.",
+        "Specification": [
+            "Built-in GPS",
+            "Heart rate monitor",
+            "Sleep tracking"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 23,
+        "product_title": "Microsoft Surface Pro 8",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/8PQ-00008-b-9006.jpg",
+        "category": "Accessories",
+        "price": 1099,
+        "description": "Versatile tablet with powerful performance and detachable keyboard.",
+        "Specification": [
+            "Intel Core i5",
+            "12.3-inch touchscreen",
+            "8GB RAM",
+            "128GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 24,
+        "product_title": "Logitech K380 Keyboard",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/4259-94527.jpg",
+        "category": "Accessories",
+        "price": 39,
+        "description": "Portable Bluetooth keyboard compatible with multiple devices.",
+        "Specification": [
+            "Bluetooth connectivity",
+            "Lightweight and portable",
+            "Multi-device pairing"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 25,
+        "product_title": "Dell UltraSharp 27 Monitor",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Dell-Vostro-15-3520-a-7927.jpg",
+        "category": "Laptops",
+        "price": 549,
+        "description": "High-resolution monitor with color accuracy and slim bezels.",
+        "Specification": [
+            "27-inch 4K UHD display",
+            "IPS technology",
+            "Adjustable stand"
+        ],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": 26,
+        "product_title": "Baseus Steel Cannon Series Hub Adapter USB A to USB 3.0",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3429-98641.jpg",
+        "category": "Accessories",
+        "price": 38,
+        "description": "USB A to USB 3.0 hub adapter with multiple ports for efficient connectivity.",
+        "Specification": [
+            "Multiple USB A ports",
+            "USB 3.0 support for high-speed data transfer",
+            "Compact and portable design",
+            "Compatible with various devices"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 27,
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Gold-7135.jpg",
+        "category": "Iphone",
+        "price": 999,
+        "description": "Latest iPhone with A16 Bionic chip and ProMotion display.",
+        "Specification": [
+            "A16 Bionic chip",
+            "6.1-inch Super Retina XDR display",
+            "128GB storage"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 28,
+        "product_title": "MacBook Pro 13-inch",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2326-75496.jpg",
+        "category": "MacBook",
+        "price": 1299,
+        "description": "Portable MacBook with M1 chip and 13-inch Retina display.",
+        "Specification": [
+            "M1 chip",
+            "13-inch Retina display",
+            "8GB RAM",
+            "256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 29,
+        "product_title": "iPhone SE (2023)",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-11-Black-5949.jpg",
+        "category": "Iphone",
+        "price": 429,
+        "description": "Compact iPhone with powerful performance and affordable price.",
+        "Specification": [
+            "A15 Bionic chip",
+            "4.7-inch Retina HD display",
+            "64GB storage"
+        ],
+        "availability": false,
+        "rating": 4.3
+    },
+    {
+        "product_id": 30,
+        "product_title": "MacBook Air 15-inch",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M3-13-Inch-Midnight-7621.jpg",
+        "category": "MacBook",
+        "price": 1199,
+        "description": "Lightweight and powerful MacBook with M2 chip and larger screen.",
+        "Specification": [
+            "M2 chip",
+            "15-inch Retina display",
+            "8GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 31,
+        "product_title": "iPhone 13 Mini",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-13-9214.jpg",
+        "category": "Iphone",
+        "price": 699,
+        "description": "Small and powerful with all-day battery life and advanced dual cameras.",
+        "Specification": [
+            "A15 Bionic chip",
+            "5.4-inch Super Retina XDR display",
+            "128GB storage"
+        ],
+        "availability": false,
+        "rating": 4.5
+    }
+]
